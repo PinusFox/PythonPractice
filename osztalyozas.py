@@ -12,5 +12,4 @@ def Classification() -> str:
     else:
         return "5"
 
-#feladat 3,
 print(f"Elért érdemjegy: {Classification()}")    

@@ -17,8 +17,6 @@ for i in range(len(sums)):
 
 print(f"[LOG] Számok: {sums}")
 
-#feladat 1,
 print(f"A három szám közül a(z) {max(sums)} legnagyobb.")
 
-#feladat 2,
 CompareSums()
